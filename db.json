@@ -1,5 +1,4 @@
-{
-  "productos":[
+[
     { 
       "id": 1, 
       "nombre": "Sticker Capibara", 
@@ -294,4 +293,3 @@
       "descripcion": "Variadas lapiceras para que des estilo a tus anotaciones"  
     }
 ]
-}
