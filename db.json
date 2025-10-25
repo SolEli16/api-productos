@@ -2,7 +2,8 @@
     { 
       "id": 1, 
       "nombre": "Sticker Capibara", 
-      "precio": 1200, "imagen": "stickers.jpg", 
+      "precio": 1200, 
+      "imagen": "stickers.jpg", 
       "descripcion": "Hermosos stickers de Capibaras brillosos" 
     },
     { 
